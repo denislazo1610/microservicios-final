@@ -1,0 +1,11 @@
+INSERT INTO public.rol(
+	nombre_rol)
+	VALUES ('USER');
+	
+	INSERT INTO public.rol(
+	nombre_rol)
+	VALUES ('ADMIN');
+
+
+SELECT * FROM rol;
+SELECT * From usuarios;
